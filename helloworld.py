@@ -1,1 +1,1 @@
-#SyntaxError: invalid syntax 문법 오류
+print("hello")
